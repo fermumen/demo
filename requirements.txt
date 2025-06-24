@@ -14,7 +14,7 @@ jupyterlite-javascript-kernel==0.3.0
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 
-#extension for filesystem access
+# extension for filesystem access
 jupyterlab-filesystem-access
 
 # P5 kernel (optional)
